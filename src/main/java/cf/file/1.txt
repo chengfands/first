@@ -1,0 +1,19 @@
+
+1、文件  Java.io.File
+        常用属性    是否是文件： isFile()
+                    是否是文件夹：isDirectory()
+                    文件大小：length()
+                    构造file时的路径：getPath()
+                    构造file时的全路径：getAbsolutePath()
+                    是否存在：exists()
+                    删除文件：delete()
+                    创建文件：createNewFile()
+                    名称：getName()
+
+
+2、文件流
+        分类       根据功能分为：输入流（读取文件）、输出流（写入文件）
+                   根据操作内容分为：字符流（读取字符数组）、字节流（读取字节数组）
+
+        字节流byte[]：  输入字节流InputStream（常用FileInputStream）
+                        输出字节流OutputStream（常用FileOutputStream）

@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f11164f-c993-4c4a-bdd0-2304af125bcb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/date/DateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/adapter/adapter/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/adapter/adapter/AbstractUserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/adapter/adapter/AdapterUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/adapter/adapter/AdapterUser22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/adapter/adapter/IOutUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/adapter/adapter/IUserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/adapter/adapter/OutUserImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/adapter/adapter/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/adapter/adapter/UserInfoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/adapter/adapter/add/Big.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/adapter/adapter/add/BigImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/adapter/adapter/add/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/adapter/adapter2/Dvi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/adapter/adapter2/DviImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/adapter/adapter2/Hdmi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/adapter/adapter2/HdmiImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/adapter/adapter2/HdmiToDvi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/adapter/adapter2/HdmiToDvi22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/adapter/adapter2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/adapter/adapter3/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/adapter/adapter3/IOutUserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/adapter/adapter3/IOutWorkInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/adapter/adapter3/IUserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/adapter/adapter3/OutUserInfoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/adapter/adapter3/OutWorkInfoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/adapter/adapter3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/adapter/adapter3/UserInfoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/build/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/build/BWMCarBuild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/build/BWMModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/build/BenzCarBuild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/build/BenzModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/build/CarBuild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/build/CarModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/build/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/build/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/factory/abstractt/AbstractBlackHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/factory/abstractt/AbstractWhiteHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/factory/abstractt/AbstractYellowHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/factory/abstractt/BlackFeMaleHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/factory/abstractt/BlackMaleHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/factory/abstractt/FeMaleHumanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/factory/abstractt/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/factory/abstractt/HumanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/factory/abstractt/MaleHumanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/factory/abstractt/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/factory/abstractt/WhiteFeMaleHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/factory/abstractt/WhiteMaleHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/factory/abstractt/YellowFeMaleHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/factory/abstractt/YellowMaleHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/factory/factory/AbstractBallFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/factory/factory/BallFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/factory/factory/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/factory/factory2/AbstractHumanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/factory/factory2/BlackHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/factory/factory2/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/factory/factory2/HumanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/factory/factory2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/factory/factory2/WhiteHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/factory/factory2/YellowHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/factory/simple/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/factory/simple/BallFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/factory/simple/BallFactory2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/factory/simple/Basketball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/factory/simple/Football.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/factory/simple/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/factory/simple/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/proxy/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/proxy/GamePlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/proxy/GamePlayerProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/proxy/IGamePlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/proxy/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/strategy/strategy/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/strategy/strategy/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/strategy/strategy/Son1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/strategy/strategy/Son2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/strategy/strategy/Son3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/strategy/strategy/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/strategy/strategy2/BigDecimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/strategy/strategy2/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/strategy/strategy2/Istrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/strategy/strategy2/NewCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/strategy/strategy2/OldCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/strategy/strategy2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/strategy/strategy2/VipCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/template/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/template/H1HummerModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/template/H2HummerModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/template/HummerModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/design/template/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/duotai/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/duotai/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/duotai/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/duotai/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/duotai/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/duotai/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/duotai/F.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/duotai/G.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/duotai/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/duotai/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/fanxing/FanXingClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/fanxing/FanXingImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/fanxing/FanXingInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/fanxing/FanXingMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/fanxing/FanXingModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/fanxing/FanXingModel1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/fanxing/FanXingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/fanxing/FanXingTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/fanxing/FanXingTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/fanxing/Special.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/file/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/file/Attribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/file/ByteFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/file/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/file/Path.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/inner/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/inner/Cola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/inner/Outter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/inner/Outter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/inner/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/inner/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/json/Json2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/json/Json3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/json/JsonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/lambda/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/lambda/StreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/lambda/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/list/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/list/LinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/list/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/list/SpecialLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/map/HashMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/map/LinkedHashMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/map/MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/serializable/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/serializable/SerializableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cf/test.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.3.9" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1obOzUFOn85bBRw9rChOYVlMgYw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\study\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="study" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="study" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f11164f-c993-4c4a-bdd0-2304af125bcb" name="Default Changelist" comment="" />
+      <created>1613552085105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613552085105</updated>
+      <workItem from="1613552087999" duration="166000" />
+      <workItem from="1613552263757" duration="1517000" />
+      <workItem from="1613554464286" duration="680000" />
+      <workItem from="1613555937805" duration="73000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/study" />
+    </ignored-roots>
+  </component>
+</project>
