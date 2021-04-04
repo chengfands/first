@@ -11,12 +11,15 @@ public class Test {
 
         MyThread myThread = new MyThread();
         myThread.start();
-        myThread.interrupt();
-        //interrupted()是线程的静态方法
-        System.out.println("第一次调用--------" + Thread.interrupted());
-        System.out.println("第二次调用--------" + Thread.interrupted());
+//        myThread.interrupt();
+//        //interrupted()是线程的静态方法
+//        System.out.println("第一次调用--------" + Thread.interrupted());
 
+//        System.out.println("第二次调用--------" + Thread.interrupted());
 
+        for(int i=0 ; i<2000;i++){
+            System.out.println("main" + i);
+        }
 
     }
 }

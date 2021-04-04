@@ -1,6 +1,8 @@
 package com.cf.inner;
 
 import java.math.BigDecimal;
+import java.util.*;
+import java.util.concurrent.BlockingQueue;
 
 /**
  * 匿名内部类测试

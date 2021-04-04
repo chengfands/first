@@ -23,7 +23,6 @@ public class Singleton4 {
     */
 
     private  static volatile Singleton4 instance = null;
-
     private Singleton4(){
     }
 

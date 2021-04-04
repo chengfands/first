@@ -18,7 +18,7 @@ public class Singleton2 {
         if(instance == null){
             return new Singleton2();
         }
-        return null;
+        return instance;
     }
 
 }

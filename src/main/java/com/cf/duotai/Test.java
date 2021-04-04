@@ -40,7 +40,7 @@ public class Test {
         * 7     B.show(b)直接调用
         * 8     B和A中都没有show(c)，调用this.show(super(c))，即this.show(b)
         * 9     B中没有show(d)，A中有，直接调用A.show(d)
-        *
+        * AA AA AD AA AA
         * */
         System.out.println("1--" + a1.show(b));
         System.out.println("2--" + a1.show(c));
