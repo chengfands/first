@@ -61,3 +61,18 @@ public class ArrayListTest {
 
     }
 }
+
+
+class Test{
+    public static void main(String[] args) {
+        List<String> list = new ArrayList<>(11);
+//        list.add("a");
+//        Object[] a1 = {};
+//        Object[] a2 = new Object[2];
+//        System.out.println(a1==a2);
+//        System.out.println(a2[0]);
+//        System.out.println(a2[1]);
+//        list.add("b");
+//        List<String> list2 = new ArrayList<>(list);
+    }
+}

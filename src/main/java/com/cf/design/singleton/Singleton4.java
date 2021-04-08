@@ -9,7 +9,7 @@ public class Singleton4 {
 
     /*
 
-     volatile关键字可以防止jvm指令重排优化
+     volatile关键字除了保证线程可见，还可以防止jvm指令重排优化
 
      因为 singleton = new Singleton() 这句话大致可以分为三步：
           1、为对象分配内存空间；

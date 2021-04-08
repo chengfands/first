@@ -1,5 +1,7 @@
 package com.cf.map;
 
+import org.springframework.context.ApplicationContext;
+
 import java.util.HashMap;
 import java.util.Map;
 
@@ -13,8 +15,8 @@ public class HashMapTest {
 
     public static void main(String[] args) {
 
-        Map<String,String> map = new HashMap<>();
-
+        Map<String,String> map = new HashMap<String,String>();
+        map.put("a","b");
 
     }
 }
