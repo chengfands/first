@@ -2,38 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f11164f-c993-4c4a-bdd0-2304af125bcb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cf/design/singleton/Object.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cf/design/singleton/Singleton7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cf/design/singleton/Singleton8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cf/thread/MyThread6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cf/thread/MyThread7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java/lang/String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/study.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cf/base/Math.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cf/design/singleton/Singleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cf/thread/AAA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cf/thread/BB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cf/thread/MyThread2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cf/thread/MyThread3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cf/thread/MyThread4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cf/thread/MyThread5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cf/thread/Test2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cf/thread/Test3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cf/thread/Test4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/cf/thread/Test5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cf/base/Math.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cf/base/Math.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cf/design/singleton/Singleton4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cf/design/singleton/Singleton4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cf/list/ArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cf/list/ArrayListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cf/map/HashMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cf/map/HashMapTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cf/thread/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cf/thread/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/cf/map/HashMapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cf/map/HashMapTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/cf/thread/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cf/thread/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/cf/thread/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cf/thread/Test.class" afterDir="false" />
-    </list>
-    <list id="87366b9a-a3c6-44e0-974c-0a67decb24c0" name="No Commit" comment="No Commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cf/ztest/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cf/ztest/Istrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cf/ztest/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cf/ztest/Z413.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cf/ztest/Z418.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cf/ztest/Z419.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cf/design/singleton/Singleton4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cf/design/singleton/Singleton4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cf/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cf/thread/MyThread3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cf/thread/MyThread3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cf/thread/MyThread4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cf/thread/MyThread4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cf/thread/MyThread5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cf/thread/MyThread5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cf/thread/MyThread7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cf/thread/MyThread7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cf/design/singleton/Singleton4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cf/design/singleton/Singleton4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cf/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cf/thread/MyThread3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cf/thread/MyThread3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cf/thread/MyThread4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cf/thread/MyThread4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cf/thread/MyThread5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cf/thread/MyThread5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cf/thread/MyThread7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cf/thread/MyThread7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cf/thread/Test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cf/thread/Test3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cf/thread/Test4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cf/thread/Test4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cf/thread/Test5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cf/thread/Test5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cf/thread/Test7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cf/thread/Test7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java/lang/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/java/lang/Test.class" afterDir="false" />
     </list>
+    <list id="87366b9a-a3c6-44e0-974c-0a67decb24c0" name="No Commit" comment="No Commit" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +85,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -98,6 +93,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cf.ztest" />
       <recent name="com.cf.duotai" />
       <recent name="com.cf.design.singleton" />
     </key>
@@ -118,13 +114,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (2)">
-    <configuration name="LinkedHashMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cf.map.LinkedHashMapTest" />
+  <component name="RunManager" selected="Application.Context1">
+    <configuration name="Context1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cf.ztest.Context1" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cf.map.*" />
+          <option name="PATTERN" value="com.cf.ztest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Object" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cf.design.singleton.Object" />
+    <configuration name="ForTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cf.ztest.ForTest" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cf.design.singleton.*" />
+          <option name="PATTERN" value="com.cf.ztest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cf.thread.Test" />
+    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cf.ztest.ListTest" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cf.thread.*" />
+          <option name="PATTERN" value="com.cf.ztest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java.lang.Test" />
+    <configuration name="ReadWrite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cf.ztest.ReadWrite" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java.lang.*" />
+          <option name="PATTERN" value="com.cf.ztest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cf.list.Test" />
+    <configuration name="Z418" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cf.ztest.Z418" />
       <module name="study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cf.list.*" />
+          <option name="PATTERN" value="com.cf.ztest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Object" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.LinkedHashMapTest" />
-        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Context1" />
+        <item itemvalue="Application.ForTest" />
+        <item itemvalue="Application.ListTest" />
+        <item itemvalue="Application.ReadWrite" />
+        <item itemvalue="Application.Z418" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +225,17 @@
       <workItem from="1617193483586" duration="3918000" />
       <workItem from="1617288752586" duration="2687000" />
       <workItem from="1617529988187" duration="9287000" />
-      <workItem from="1617784849274" duration="21011000" />
+      <workItem from="1617784849274" duration="21260000" />
+      <workItem from="1617953510548" duration="4231000" />
+      <workItem from="1618048555126" duration="1914000" />
+      <workItem from="1618229763168" duration="656000" />
+      <workItem from="1618287207911" duration="1146000" />
+      <workItem from="1618315793533" duration="7716000" />
+      <workItem from="1618403752377" duration="1217000" />
+      <workItem from="1618462097555" duration="1289000" />
+      <workItem from="1618740831331" duration="3670000" />
+      <workItem from="1618793574750" duration="4079000" />
+      <workItem from="1618923593244" duration="4267000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1613556095725</created>
@@ -259,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617536307456</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="study">
+      <created>1617901602228</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1617901602228</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -1,5 +1,7 @@
 package com.cf.design.singleton;
 
+import java.lang.reflect.Proxy;
+
 /**
  * 单例：懒汉式（推荐）
  * @author chengfan
@@ -14,7 +16,7 @@ public class Singleton4 {
      因为 singleton = new Singleton() 这句话大致可以分为三步：
           1、为对象分配内存空间；
           2、初始化对象；
-          3、对象的内存地址赋值给引用singleton。
+          3、引用singleton指向内存地址。
     但是由于JVM具有指令重排的特性，执行顺序有可能变成 1-3-2。指令重排在单线程下不会出现问题，但是在多线程下会导致一个线程获得一个未初始化的实例。
     例如：线程T1执行了1和3，此时T2调用 getInstance() 后发现 singleton 不为空，因此返回 singleton， 但是此时的 singleton 还没有被初始化。
 
@@ -38,5 +40,4 @@ public class Singleton4 {
         }
         return instance;
     }
-
 }

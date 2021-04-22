@@ -10,9 +10,9 @@ import java.util.concurrent.*;
  */
 public class MyThread4 implements Runnable {
 
-    private  int tickets = 3;
+    private  int tickets = 8;
 
-    private  Object OBJECT = new Object();
+    private static  Object OBJECT = new Object();
 
     @Override
     public void run() {
@@ -39,5 +39,14 @@ class Test4{
         pools.submit(myThread4);
         pools.submit(myThread4);
         pools.submit(myThread4);
+        pools.submit(myThread4);
+        pools.submit(myThread4);
+        pools.submit(myThread4);
+        pools.submit(myThread4);
+        pools.submit(myThread4);
+        pools.submit(myThread4);
+        pools.submit(myThread4);
     }
+
+
  }

@@ -1,5 +1,8 @@
 package com.cf.thread;
 
+import org.springframework.web.servlet.HandlerInterceptor;
+import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
+
 /**
  * 5个人抢10张票
  * @author chengfan
@@ -8,7 +11,6 @@ package com.cf.thread;
 public class MyThread7 implements Runnable{
 
     private int tickets = 10;
-
     @Override
     public void run() {
         while (tickets > 0){

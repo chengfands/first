@@ -9,7 +9,7 @@ import java.util.concurrent.locks.ReentrantLock;
  */
 public class MyThread3 implements Runnable {
 
-    private  int tickets = 3;
+    private  int tickets = 8;
 
     ReentrantLock lock = new ReentrantLock();
 
@@ -35,6 +35,10 @@ class Test3{
         new Thread(myThread3,"用户3").start();
         new Thread(myThread3,"用户4").start();
         new Thread(myThread3,"用户5").start();
+        new Thread(myThread3,"用户6").start();
+        new Thread(myThread3,"用户7").start();
+        new Thread(myThread3,"用户8").start();
+        new Thread(myThread3,"用户9").start();
 
     }
  }

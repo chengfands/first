@@ -16,6 +16,7 @@ public class MyThread5 implements Runnable {
 
     @Override
     public void run() {
+        System.out.println();
         synchronized (OBJECT){
             if(tickets > 0){
                 System.out.println(Thread.currentThread().getName() + "抢到了第" + tickets + "张票");
